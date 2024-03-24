@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: gray;
+}
+#hesap{
+    margin-top: 100px;
+    margin-right: 450px;
+    margin-left: 450px;
+    background-color: black;
+    width: 90;
+    height: 82vh;
+    border-radius: 5%;
+}
+#bilgi input{
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 51.8px;
+    margin-left: -415px;
+    margin-top: 5px;
+    height: 150px;
+    border-radius: 50px;
+}
+#sayilar{
+    margin-left: 140px;
+    padding-top: 80px;
+}
+#sayilar button{
+    background-color:blue;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+#islemler{
+    margin-top:  -320px;
+    margin-left: 500px;
+    border-radius: 25px;
+}
+#islemler button{
+    background-color: orange;
+    color: white;
+    margin-top: 10px;
+    padding: 25px;
+    font-size: 25px;
+    width: 120px;
+    height: 70px;
+}
+#digerislemler{
+    margin-top: -320px;
+    margin-left: 15px;
+}
+#digerislemler button{
+    background-color: orange;
+    color: white;
+    font-size: 25px;
+    width: 120px;
+    height: 70px;
+    margin-top: 10px;
+}
+#bilgi{
+    margin-left: 60vh;
+}
+#sonuc{
+    color: white;
+    font-size: 20px;
+    margin-top: -390px;
+    margin-left: auto;
+    font-size: 50px;
+}
